@@ -1,14 +1,12 @@
-# Installing Ruby on Rails
+# Installing Ruby on Rails on MacOSX
 
-## MacOSX
-
-### Download XCode
+## Download XCode
 
 XCode is needed for development on MacOSX.
 
 Search for `XCode` from the Apple App Store. It is a big download (4GB+).
 
-### Homebrew
+## Homebrew
 
 [Homebrew](https://brew.sh/) is the package manager for Mac.
 
@@ -22,7 +20,7 @@ If typing the command does not result into an error, proceed to Step 2. Otherwis
 2. Run `brew doctor`. You should get the message, "Your system is ready to brew".
 3. Run `brew update`
 
-### Installing RVM and Ruby
+## Installing RVM and Ruby
 
 [RVM](https://rvm.io/) stands for "Ruby Version Manager". It allows you to manage different Ruby versions in your machine to ensure that your Ruby projects run with the correct version.
 
@@ -30,33 +28,20 @@ If typing the command does not result into an error, proceed to Step 2. Otherwis
 2. Type `"source $HOME/.rvm/scripts/rvm" >> ~/.bash_profile`. This will load the RVM scripts the next time you run your terminal.
 3. Verify your installation by running `ruby -v`. You should get `2.3.x`.
 
-### Install tools
+## Install tools
 
 Before proceeding to the next steps, close Terminal, and open it again.
 
-#### Bundler
+## Bundler
 
 [Bundler](http://bundler.io/) manages Ruby project libraries (or `gems`) to make sure that they are running the correct version.
 
 To install bundler, run `gem install bundler`.
 
-#### Pry
+## Pry
 
 [Pry](https://github.com/pry/pry) is a **better** IRB alternative. This Ruby console has syntax highlighting for better readability when running code in console.
 
 To install pry, run `gem install pry`.
 
-
-## Using RailsInstaller
-
-Please see the guide from [RailsInstaller](http://www.railsinstaller.org/en)
-
-## Alternative installation
-
-### MacOS
-
-Please see the guide from [RailsApp](http://railsapps.github.io/installrubyonrails-mac.html)
-
-### Windows
-
-Please see the guide provided by Ana Gabutero [here](https://bitbucket.org/amdg/rails-dev).
+Verify installation by running `pry`.
