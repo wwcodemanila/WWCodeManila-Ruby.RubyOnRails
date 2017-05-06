@@ -8,8 +8,8 @@ This is a guide I compiled for Ruby on Rails learners
 
 I wrote guides on installing Ruby:
 
-- [MacOSX](https://github.com/kjcpaas/configs/blob/master/docs/installation/mac_osx.md)
-- [Windows 10 and Ubuntu](https://github.com/kjcpaas/configs/blob/master/docs/installation/windows_10_and_ubuntu.md)
+- [MacOSX](https://github.com/kjcpaas/ror_guides/blob/master/docs/installation/mac_osx.md)
+- [Windows 10 and Ubuntu](https://github.com/kjcpaas/ror_guides/blob/master/docs/installation/windows_10_and_ubuntu.md)
 
 You may also opt to use the following guides:
 
