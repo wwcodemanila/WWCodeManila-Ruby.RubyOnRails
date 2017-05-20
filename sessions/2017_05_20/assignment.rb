@@ -37,3 +37,9 @@ class Animal
     raise NotImplementedError
   end
 end
+
+# Example:
+# mama_bear = Animal.new
+# papa_bear = Animal.new
+#
+# papa_bear.mate(mama_bear)

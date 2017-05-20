@@ -44,3 +44,7 @@ class Animal
     raise NotImplementedError
   end
 end
+
+# Example:
+# plankton = Food.new('plankton', 'plant')
+# nemo.eat(plankton)
