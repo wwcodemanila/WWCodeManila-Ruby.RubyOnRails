@@ -4,11 +4,35 @@
 
 **Ruby on Rails** is a server-side web application framework built with Ruby. It is popular with tech startups since you can quickly build web applications from scratch.
 
-## Getting started
+## Study Groups
 
-Before attending our study groups, please make sure to install the needed software.
+Ruby on Rails study groups are held every **2nd and 4th Saturdays** of the month. Please RSVP at our [Meetup page](https://www.meetup.com/Women-Who-Code-Manila).
 
-### Installation
+## Contents
+
+### Ruby Fundamentals
+
+These sessions are meant to build the needed Ruby foundation before diving into Ruby on Rails. Other more advance Ruby concepts such as metaprogramming, error handling, etc will be touched as we go along the Ruby on Rails materials.
+
+| Session # | Topic                       | Slides |
+|-----------|-----------------------------|--------|
+| 1         | Ruby Basics                 |        |
+| 2         | Arrays, Hashes, and Loops 1 |        |
+| 3         | Loops 2, Blocks, Functions  |        |
+| 4         | Classes                     |        |
+
+### Ruby on Rails
+
+In these sessions, we build web applications using Ruby on Rails.
+
+| Session # | Topic                              | Slides |
+|-----------|------------------------------------|--------|
+| 1         | My First Ruby on Rails Application |        |
+| 2         | Layout and validation              |        |
+
+## Required tools
+
+Before attending our study groups, please make sure to install the needed tools.
 
 #### Ruby on Rails
 
