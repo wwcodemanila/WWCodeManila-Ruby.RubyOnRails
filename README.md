@@ -14,12 +14,12 @@ Ruby on Rails study groups are held every **2nd and 4th Saturdays** of the month
 
 These sessions are meant to build the needed Ruby foundation before diving into Ruby on Rails. Other more advance Ruby concepts such as metaprogramming, error handling, etc will be touched as we go along the Ruby on Rails materials.
 
-| Session # | Topic                       | Slides |
-|-----------|-----------------------------|--------|
-| 1         | Ruby Basics                 |        |
-| 2         | Arrays, Hashes, and Loops 1 |        |
-| 3         | Loops 2, Blocks, Functions  |        |
-| 4         | Classes                     |        |
+| Session #                                 | Topic                       | Slides                        |
+|-------------------------------------------|-----------------------------|-------------------------------|
+| [1](sessions/ruby_fundamentals/session_1) | Ruby Basics                 | N/A                           |
+| [2](sessions/ruby_fundamentals/session_2) | Arrays, Hashes, and Loops 1 | [link](http://bit.ly/2o8UfDw) |
+| [3](sessions/ruby_fundamentals/session_3) | Loops 2, Blocks, Functions  | [link](https://goo.gl/rpYrQI) |
+| [4](sessions/ruby_fundamentals/session_4) | Classes                     | [link](https://goo.gl/TSKJBG) |
 
 ### Ruby on Rails
 
