@@ -4,9 +4,11 @@
 
 **Ruby on Rails** is a server-side web application framework built with Ruby. It is popular with tech startups since you can quickly build web applications from scratch.
 
+
 ## Study Groups
 
 Ruby on Rails study groups are held every **2nd and 4th Saturdays** of the month. Please RSVP at our [Meetup page](https://www.meetup.com/Women-Who-Code-Manila).
+
 
 ## Contents
 
@@ -62,3 +64,21 @@ For more advanced users, you can opt to use these terminal-based editors:
 #### Optional tools
 
 For other tools that you can use to make your development environment efficient, please refer to this [guide](docs/tools.md).
+
+
+## References
+
+### Official Documentation
+
+Reading software documentation is part of being a software developer. You can find information about built-in methods in Ruby and Ruby on Rails.
+
+- Ruby Official Documentation: http://ruby-doc.org/
+- Ruby on Rails Guides: http://guides.rubyonrails.org/
+
+### Online tutorials
+
+You can also refer to these online tutorials to help you get started.
+
+- http://tryruby.org/
+- http://railsforzombies.org/
+- https://www.codecademy.com/learn/learn-rails
