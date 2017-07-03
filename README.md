@@ -2,17 +2,37 @@
 
 This is a guide I compiled for Ruby on Rails learners
 
-## Contents
+## Getting started
+
+Before attending our study groups, please make sure to install the needed software
 
 ### Installation
 
-I wrote guides on installing Ruby:
-
-- [MacOSX](https://github.com/wwcodemanila/ruby_on_rails/blob/master/docs/installation/mac_osx.md)
-- [Windows 10 and Ubuntu](https://github.com/wwcodemanila/ruby_on_rails/blob/master/docs/installation/windows_10_and_ubuntu.md)
-
-You may also opt to use the following guides:
-
 - All platforms (RailsInstaller): http://www.railsinstaller.org/en
 - MacOSX (Rails App): http://railsapps.github.io/installrubyonrails-mac.html
-- Windows (by Ana Gabutero): https://bitbucket.org/amdg/rails-dev
+
+### Other tools
+
+#### Pry
+
+[Pry](https://github.com/pry/pry) is a **better** IRB alternative. This Ruby console has syntax highlighting for better readability when running code in console.
+
+To install pry, run `gem install pry`.
+
+Verify installation by running `pry`.
+
+#### Text editors
+
+Ruby does not require an IDE. You can opt to use one of these as your text editor (or your own choice).
+
+- [Sublime Text](https://www.sublimetext.com/)\* (all platforms)
+
+\* Warning: Sublime Text shows a popup every hour prompting you to pay if you are using the free version. Please use another editor if you find this annoying.
+
+- [Atom](https://atom.io/) (all platforms)
+- [Textmate](https://macromates.com/) (OS X only)
+
+For more advanced users, you can opt to use these terminal-based editors:
+
+- [Vim](http://www.vim.org/)
+- [Emacs](https://www.gnu.org/software/emacs/)
