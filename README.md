@@ -30,6 +30,10 @@ In these sessions, we build web applications using Ruby on Rails.
 | 1         | My First Ruby on Rails Application | [link](https://goo.gl/A4gMPa) |
 | 2         | Layout and validation              | [link](https://goo.gl/iVtNsY) |
 
+### Others
+
+- [Ruby conventions](docs/ruby_conventions.md): Useful reference for conventions used in Ruby. Use this guide to develop good coding habits in Ruby!
+
 ## Required tools
 
 Before attending our study groups, please make sure to install the needed tools.
