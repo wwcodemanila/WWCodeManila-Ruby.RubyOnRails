@@ -6,22 +6,14 @@
 
 ## Getting started
 
-Before attending our study groups, please make sure to install the needed software
+Before attending our study groups, please make sure to install the needed software.
 
 ### Installation
 
+#### Ruby on Rails
+
 - All platforms (RailsInstaller): http://www.railsinstaller.org/en
 - MacOSX (Rails App): http://railsapps.github.io/installrubyonrails-mac.html
-
-### Other tools
-
-#### Pry
-
-[Pry](https://github.com/pry/pry) is a **better** IRB alternative. This Ruby console has syntax highlighting for better readability when running code in console.
-
-To install pry, run `gem install pry`.
-
-Verify installation by running `pry`.
 
 #### Text editors
 
@@ -38,3 +30,7 @@ For more advanced users, you can opt to use these terminal-based editors:
 
 - [Vim](http://www.vim.org/)
 - [Emacs](https://www.gnu.org/software/emacs/)
+
+#### Optional tools
+
+For other tools that you can use to make your development environment efficient, please refer to this [guide](https://github.com/wwcodemanila/WWCodeManila-Ruby.RubyOnRails/blob/master/docs/tools.md).
