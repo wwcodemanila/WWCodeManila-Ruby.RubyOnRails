@@ -57,4 +57,4 @@ For more advanced users, you can opt to use these terminal-based editors:
 
 #### Optional tools
 
-For other tools that you can use to make your development environment efficient, please refer to this [guide](https://github.com/wwcodemanila/WWCodeManila-Ruby.RubyOnRails/blob/master/docs/tools.md).
+For other tools that you can use to make your development environment efficient, please refer to this [guide](docs/tools.md).
