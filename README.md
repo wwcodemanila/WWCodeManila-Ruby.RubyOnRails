@@ -25,10 +25,10 @@ These sessions are meant to build the needed Ruby foundation before diving into 
 
 In these sessions, we build web applications using Ruby on Rails.
 
-| Session # | Topic                              | Slides |
-|-----------|------------------------------------|--------|
-| 1         | My First Ruby on Rails Application |        |
-| 2         | Layout and validation              |        |
+| Session # | Topic                              | Slides                        |
+|-----------|------------------------------------|-------------------------------|
+| 1         | My First Ruby on Rails Application | [link](https://goo.gl/A4gMPa) |
+| 2         | Layout and validation              | [link](https://goo.gl/iVtNsY) |
 
 ## Required tools
 
