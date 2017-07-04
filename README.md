@@ -7,7 +7,7 @@
 
 ## Study Groups
 
-Ruby on Rails study groups are held every **2nd and 4th Saturdays** of the month. Please RSVP at our [Meetup page](https://www.meetup.com/Women-Who-Code-Manila).
+Ruby on Rails study groups are held every **1st and 3rd Saturdays** of the month. Please RSVP at our [Meetup page](https://www.meetup.com/Women-Who-Code-Manila).
 
 
 ## Contents
