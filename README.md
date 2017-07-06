@@ -82,3 +82,4 @@ You can also refer to these online tutorials to help you get started.
 - http://tryruby.org/
 - http://railsforzombies.org/
 - https://www.codecademy.com/learn/learn-rails
+- https://www.railstutorial.org/book
