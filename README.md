@@ -14,23 +14,23 @@ Ruby on Rails study groups are held every **1st and 3rd Saturdays** of the month
 
 ### Ruby Fundamentals
 
-These sessions are meant to build the needed Ruby foundation before diving into Ruby on Rails. Other more advance Ruby concepts such as metaprogramming, error handling, etc will be touched as we go along the Ruby on Rails materials.
+These are meant to build the needed Ruby foundation before diving into Ruby on Rails. Other more advance Ruby concepts such as metaprogramming, error handling, etc will be touched as we go along the Ruby on Rails materials.
 
-| Session #                                 | Topic                       | Slides                        |
-|-------------------------------------------|-----------------------------|-------------------------------|
-| [1](sessions/ruby_fundamentals/session_1) | Ruby Basics                 | N/A                           |
-| [2](sessions/ruby_fundamentals/session_2) | Arrays, Hashes, and Loops 1 | [link](http://bit.ly/2o8UfDw) |
-| [3](sessions/ruby_fundamentals/session_3) | Loops 2, Blocks, Functions  | [link](https://goo.gl/rpYrQI) |
-| [4](sessions/ruby_fundamentals/session_4) | Classes                     | [link](https://goo.gl/TSKJBG) |
+| Study Group #                                  | Topic                       | Slides                        |
+|------------------------------------------------|-----------------------------|-------------------------------|
+| [1](ruby_fundamentals/ruby_basics)             | Ruby Basics                 | N/A                           |
+| [2](ruby_fundamentals/arrays_hashes_loops1)    | Arrays, Hashes, and Loops 1 | [link](http://bit.ly/2o8UfDw) |
+| [3](ruby_fundamentals/loops2_blocks_functions) | Loops 2, Blocks, Functions  | [link](https://goo.gl/rpYrQI) |
+| [4](ruby_fundamentals/classes)                 | Classes                     | [link](https://goo.gl/TSKJBG) |
 
 ### Ruby on Rails
 
-In these sessions, we build web applications using Ruby on Rails.
+In these study groups, we build web applications using Ruby on Rails.
 
-| Session # | Topic                              | Slides                        |
-|-----------|------------------------------------|-------------------------------|
-| 1         | My First Ruby on Rails Application | [link](https://goo.gl/A4gMPa) |
-| 2         | Layout and validation              | [link](https://goo.gl/iVtNsY) |
+| Study Group # | Topic                              | Slides                        |
+|---------------|------------------------------------|-------------------------------|
+| 1             | My First Ruby on Rails Application | [link](https://goo.gl/A4gMPa) |
+| 2             | Layout and validation              | [link](https://goo.gl/iVtNsY) |
 
 ### Others
 
