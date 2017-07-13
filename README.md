@@ -16,21 +16,21 @@ Ruby on Rails study groups are held every **1st and 3rd Saturdays** of the month
 
 These are meant to build the needed Ruby foundation before diving into Ruby on Rails. Other more advance Ruby concepts such as metaprogramming, error handling, etc will be touched as we go along the Ruby on Rails materials.
 
-| Study Group #                                  | Topic                       | Slides                        |
-|------------------------------------------------|-----------------------------|-------------------------------|
-| [1](ruby_fundamentals/ruby_basics)             | Ruby Basics                 | N/A                           |
-| [2](ruby_fundamentals/arrays_hashes_loops1)    | Arrays, Hashes, and Loops 1 | [link](http://bit.ly/2o8UfDw) |
-| [3](ruby_fundamentals/loops2_blocks_functions) | Loops 2, Blocks, Functions  | [link](https://goo.gl/rpYrQI) |
-| [4](ruby_fundamentals/classes)                 | Classes                     | [link](https://goo.gl/TSKJBG) |
+|     | Topic                       | Slides                        | Code Exercises                                    |
+|-----|-----------------------------|-------------------------------|---------------------------------------------------|
+| [x] | Ruby Basics                 | N/A                           | [link](ruby_fundamentals/ruby_basics)             |
+| [x] | Arrays, Hashes, and Loops 1 | [link](http://bit.ly/2o8UfDw) | [link](ruby_fundamentals/arrays_hashes_loops1)    |
+| [x] | Loops 2, Blocks, Functions  | [link](https://goo.gl/rpYrQI) | [link](ruby_fundamentals/loops2_blocks_functions) |
+| [x] | Classes                     | [link](https://goo.gl/TSKJBG) | [link](ruby_fundamentals/classes)                 |
 
 ### Ruby on Rails
 
 In these study groups, we build web applications using Ruby on Rails.
 
-| Study Group # | Topic                              | Slides                        |
-|---------------|------------------------------------|-------------------------------|
-| 1             | My First Ruby on Rails Application | [link](https://goo.gl/A4gMPa) |
-| 2             | Layout and validation              | [link](https://goo.gl/iVtNsY) |
+|     | Topic                              | Slides                        |
+|-----|------------------------------------|-------------------------------|
+| [x] | My First Ruby on Rails Application | [link](https://goo.gl/A4gMPa) |
+| [x] | Layout and validation              | [link](https://goo.gl/iVtNsY) |
 
 ### Others
 
