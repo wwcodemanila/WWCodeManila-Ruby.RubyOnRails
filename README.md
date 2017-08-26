@@ -32,6 +32,7 @@ In these study groups, we build web applications using Ruby on Rails.
 | [x] | My First Ruby on Rails Application | [link](https://goo.gl/A4gMPa) |
 | [x] | Layout and validation              | [link](https://goo.gl/iVtNsY) |
 | [x] | User Authentication                | [link](https://goo.gl/WAhomB) |
+| [x] | Localization                       | [link](https://goo.gl/75uqa2) |
 
 ### Others
 
