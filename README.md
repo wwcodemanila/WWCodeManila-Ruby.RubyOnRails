@@ -20,8 +20,8 @@ These are meant to build the needed Ruby foundation before diving into Ruby on R
 |-----|-----------------------------|-------------------------------|---------------------------------------------------|
 | [x] | Ruby Basics                 | N/A                           | [link](ruby_fundamentals/ruby_basics)             |
 | [x] | Arrays, Hashes, and Loops 1 | [link](http://bit.ly/2o8UfDw) | [link](ruby_fundamentals/arrays_hashes_loops1)    |
-| [x] | Loops 2, Blocks, Functions  | [link](https://goo.gl/rpYrQI) | [link](ruby_fundamentals/loops2_blocks_functions) |
-| [x] | Classes                     | [link](https://goo.gl/TSKJBG) | [link](ruby_fundamentals/classes)                 |
+| [x] | Loops 2, Blocks, Functions  | [link](https://goo.gl/f1gdW1) | [link](ruby_fundamentals/loops2_blocks_functions) |
+| [x] | Classes                     | [link](https://goo.gl/oEwGRb) | [link](ruby_fundamentals/classes)                 |
 
 ### Ruby on Rails
 
@@ -29,10 +29,11 @@ In these study groups, we build web applications using Ruby on Rails.
 
 |     | Topic                              | Slides                        |
 |-----|------------------------------------|-------------------------------|
-| [x] | My First Ruby on Rails Application | [link](https://goo.gl/A4gMPa) |
-| [x] | Layout and validation              | [link](https://goo.gl/iVtNsY) |
-| [x] | User Authentication                | [link](https://goo.gl/WAhomB) |
-| [x] | Localization                       | [link](https://goo.gl/75uqa2) |
+| [x] | My First Ruby on Rails Application | [link](https://goo.gl/XhxWtA) |
+| [x] | Layout and validation              | [link](https://goo.gl/AeqYyt) |
+| [x] | User Authentication                | [link](https://goo.gl/7awL1s) |
+| [x] | Localization                       | [link](https://goo.gl/XQWKuN) |
+| [x] | Routing                            | [link](https://goo.gl/2EuVNx) |
 
 ### Others
 
