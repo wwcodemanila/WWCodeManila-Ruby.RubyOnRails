@@ -9,6 +9,9 @@
 
 Ruby on Rails study groups are held every **1st and 3rd Saturdays** of the month. Please RSVP at our [Meetup page](https://www.meetup.com/Women-Who-Code-Manila).
 
+## Chat
+
+You can post at our [Gitter Chat](https://gitter.im/WWCodeManila/Ruby-On-Rails) if you have any questions about Ruby and the study group.
 
 ## Contents
 
