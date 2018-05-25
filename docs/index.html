@@ -22,7 +22,19 @@
       loadSidebar: true,
       autoHeader: true,
       maxLevel: 4,
-      subMaxLevel: 2
+      subMaxLevel: 2,
+      // Show when last updated
+      formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{MM}',
+      plugins: [
+        // Show when last updated
+        function(hook, vm) {
+          hook.beforeEach(function (html) {
+            return html
+              + '\n----\n'
+              + '<strong>Document last modified</strong>: {docsify-updated}'
+          })
+        }
+      ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
