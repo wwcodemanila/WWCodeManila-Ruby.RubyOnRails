@@ -1,6 +1,6 @@
-<img src="_media/logo.png" alt="logo" width="300px" />
+![logo](_media/logo.png)
 
-# Ruby Study Group
+# Ruby on Rails Study Group
 
 [Github](https://github.com/wwcodemanila/WWCodeManila-Ruby.RubyOnRails)
 [Meetup](https://meetup.com/Women-Who-Code-Manila/)
@@ -8,4 +8,4 @@
 [Twitter](https://twitter.com/wwcodemanila)
 [Gitter](https://gitter.im/WWCodeManila/Ruby-On-Rails)
 
-![](_media/bg.jpg)
+![background](_media/bg.jpg)

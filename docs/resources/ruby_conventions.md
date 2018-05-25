@@ -1,5 +1,3 @@
-# Ruby Conventions
-
 Like other programming languages, Ruby follows naming conventions.
 
 ## Variables
