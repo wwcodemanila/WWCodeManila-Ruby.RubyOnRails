@@ -12,6 +12,8 @@ Get to know more about these technologies [here](getting_started/ruby_and_ruby_o
 
 This study group is held once a month and is led by our volunteer leaders. However, everyone is welcome to join, learn, and share their knowledge in the community.
 
+Everyone joining this study group and other Women Who Code events must follow our [code of conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md).
+
 ## Relevant links
 
 - [Gitter Chat](https://gitter.im/WWCodeManila/Ruby-On-Rails): Interact with the community. You can share something about Ruby on Rails, or ask help if you're stuck on a problem.
