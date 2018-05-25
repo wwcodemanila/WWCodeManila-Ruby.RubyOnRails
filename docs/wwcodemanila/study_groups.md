@@ -2,12 +2,10 @@ Study groups are events where members can come together and help each other lear
 
 Everyone is welcome to the event as long as they want to learn and share their knowledge with the community and they are following the code of conduct.
 
+!> Study groups are **not** classes, workshops, seminars, or lectures. It’s about everyone in the **community learning together**.
+
 Visit our [Meetup page](https://bit.ly/wwcodemanilameetups) for the schedule of upcoming study groups and other events.
 
-## Things to note
-
-- Study groups are **not** classes, workshops or lectures.
-- It’s about everyone in the **community learning together**.
 
 ## Guidelines
 
