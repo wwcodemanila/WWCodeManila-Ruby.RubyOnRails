@@ -1,5 +1,5 @@
 - Getting Started
-  - [Ruby and Ruby on Rails](getting_started/ruby_and_ruby_on_rails.md)
+  - [About the Study Group](README.md)
   - [Install Tools](getting_started/install_tools.md)
 
 - Women Who Code Manila

@@ -1,10 +1,16 @@
 # Women Who Code Manila Ruby on Rails Study Group
 
+![Ruby](../_media/ruby.png)
+
 **Ruby** is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. (from https://www.ruby-lang.org/en/)
+
+Learn more about Ruby from their [official site](https://www.ruby-lang.org/en/).
+
+![Ruby](../_media/ror.png)
 
 **Ruby on Rails** is a server-side web application framework built with Ruby. It is popular with tech startups since you can quickly build web applications from scratch.
 
-Get to know more about these technologies [here](getting_started/ruby_and_ruby_on_rails.md).
+Learn more about Ruby on Rails from their [official site](https://rubyonrails.org/).
 
 ## About this study group
 
@@ -25,17 +31,17 @@ Everyone joining this study group and other Women Who Code events must follow ou
 
 ### Volunteer
 
-Attend one of our [events](https://bit.ly/wwcodemanilameetups) and talk to us!
+Attend one of our [events](https://bit.ly/wwcodemanilameetups) and talk to us! :smile:
 
 ### Donate
 
-Even a little amount is a big helping us achieve our mission of inspiring women to excel in tech careers.
+Even a little amount is a big helping us achieve our mission of inspiring women to excel in tech careers. :heart:
 
 You can donate at our [Open Collective](https://opencollective.com/wwcodemanila).
 
 ### Hosting
 
-Do you want to host one of our study groups? Email us at manila@womenwhocode.com.
+Do you want to host one of our study groups? Email us at **manila@womenwhocode.com**.
 
 ## Contributors
 
