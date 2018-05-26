@@ -12,4 +12,4 @@
 
 - Resources
   - [Ruby Conventions](resources/ruby_conventions.md)
-  - [References](recources/references.md)
+  - [References](resources/references.md)
