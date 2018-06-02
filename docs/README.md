@@ -35,7 +35,7 @@ Attend one of our [events](https://bit.ly/wwcodemanilameetups) and talk to us! :
 
 ### Donate
 
-Even a little amount is a big helping us achieve our mission of inspiring women to excel in tech careers. :heart:
+Even a little amount is a big help for us to achieve our mission of inspiring women to excel in tech careers. :heart:
 
 You can donate at our [Open Collective](https://opencollective.com/wwcodemanila).
 
