@@ -1,6 +1,6 @@
 ## Required tools
 
-!> Before attending Ruby on Rails study groups, please make sure to install the needed tools. You will not be able to participate in the activities without these.
+!> Before attending Ruby study groups, please make sure to install the needed tools. You will not be able to participate in the activities without these.
 
 
 ### Ruby on Rails
