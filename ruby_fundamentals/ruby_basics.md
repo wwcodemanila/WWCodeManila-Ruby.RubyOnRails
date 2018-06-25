@@ -5,32 +5,36 @@ Let's try to run some Ruby code!
 
 - Open a terminal
 
-```
+```ruby
 irb
 ```
 
 ##### Basic example on how to print text
-```
+```ruby
 puts 'Hello World!'
-p 'Hi! I am here.'
+print 'Hi! I am here.'
 ```
+!> What is the difference between puts and print?<br />
+The **puts** and **print** commands are both used to display the results of evaluating Ruby code.
+The primary difference between them is that **puts** adds a newline after executing, and **print** does not.
+
 
 ##### Variables
-```
+```ruby
 age = 25
 count = 3
 my_var = 4
 ```
 
 ##### Constants
-```
+```ruby
 A = 5
 B = 7
 MY_CONST = 10
 ```
 
 ##### Numbers
-```
+```ruby
 # Integer
 3
 
@@ -40,7 +44,7 @@ MY_CONST = 10
 ```
 
 ##### Mathematical Operations
-```
+```ruby
 1 + 1
 3 - 5
 10 * 6
@@ -50,7 +54,7 @@ MY_CONST = 10
 ```
 
 ##### Strings
-```
+```ruby
 name = "Joy"
 name = 'Joy'
 "My name is " + name
@@ -59,7 +63,7 @@ name = 'Joy'
 ```
 
 ##### Conditions
-```
+```ruby
 if true
   # execute if true
 else
@@ -69,7 +73,7 @@ end
 
 
 ##### Equality
-```
+```ruby
 1 == 2  # false
 1 == 1  # true
 1 != 2  # true
@@ -82,7 +86,7 @@ end
 ```
 
 ##### Logical
-```
+```ruby
 # AND (&&)
 true && true    # true
 true && false   # false
@@ -110,7 +114,7 @@ Write an introduction using the variables below.
 - if senior citizen, add in introduction
 Post in https://codepad.remoteinterview.io if done (also in Meetup discussion)
 
-```
+```ruby
 require 'date'
 
 name = "Joy"
