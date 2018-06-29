@@ -34,6 +34,28 @@ arr[2].class #=> double
 arr.reverse #=> [25.5, 'apple', 1]
 ```
 
-
 ##### Hashes
+Hash is a dictionary-like collection of unique keys and their values.
 
+```ruby
+# Creating hash
+age_1 = {'Anna': 25, 'Bob': 30, 'Charles': 50} # or
+age_2 = Hash.new
+
+age_2['Anna'] = 25
+age_2['Bob'] = 30
+age_2['Charles'] = 50
+
+# checking value
+p age_1
+p age_2
+
+# array methods
+p age_1.keys
+p age_1.values
+
+# accessing values
+age_1.each do |name, age|
+  puts "#{name}: #{age}"
+end
+```
