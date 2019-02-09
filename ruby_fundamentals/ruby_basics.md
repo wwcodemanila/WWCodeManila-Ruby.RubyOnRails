@@ -4,12 +4,16 @@ Let's try to run some Ruby code!
 
 
 - Open a terminal
-
 ```ruby
 irb
 ```
 
 ##### Basic example on how to print text
+```ruby
+p 'I am here.'
+```
+
+##### Variables
 ```ruby
 puts 'Hello World!'
 print 'Hi! I am here.'

@@ -9,6 +9,7 @@
 - Contents
   - [Ruby Fundamentals](contents/ruby_fundamentals.md)
   - [Ruby on Rails](contents/ruby_on_rails.md)
+  - [Agile Web Development](contents/agile_web_development.md)
 
 - Resources
   - [Ruby Conventions](resources/ruby_conventions.md)
