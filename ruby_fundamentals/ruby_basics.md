@@ -4,7 +4,6 @@ Let's try to run some Ruby code!
 
 
 - Open a terminal
-
 ```ruby
 irb
 ```
